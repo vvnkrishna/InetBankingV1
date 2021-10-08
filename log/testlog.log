@@ -1,0 +1,209 @@
+2021-07-27 21:50:32,459 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-27 21:50:32,573 - InetBankingV1 -INFO - Assertion pass
+2021-07-28 01:44:36,174 - InetBankingV1 -INFO - Customer name provided
+2021-07-28 01:44:37,725 - InetBankingV1 -INFO - Password provided
+2021-07-28 01:44:48,870 - InetBankingV1 -INFO - Login passed
+2021-07-28 01:44:57,184 - InetBankingV1 -INFO - Customer name provided
+2021-07-28 01:44:57,540 - InetBankingV1 -INFO - Password provided
+2021-07-28 01:45:08,031 - InetBankingV1 -INFO - Customer name provided
+2021-07-28 01:45:08,460 - InetBankingV1 -INFO - Password provided
+2021-07-28 01:45:21,452 - InetBankingV1 -INFO - Customer name provided
+2021-07-28 01:45:21,744 - InetBankingV1 -INFO - Password provided
+2021-07-28 01:45:25,493 - InetBankingV1 -INFO - Login passed
+2021-07-28 01:45:39,299 - InetBankingV1 -INFO - Customer name provided
+2021-07-28 01:45:39,548 - InetBankingV1 -INFO - Password provided
+2021-07-28 19:32:57,541 - InetBankingV1 -INFO - Customer name provided
+2021-07-28 19:32:58,028 - InetBankingV1 -INFO - Password provided
+2021-07-28 19:33:06,246 - InetBankingV1 -INFO - Login passed
+2021-07-28 19:33:13,998 - InetBankingV1 -INFO - Customer name provided
+2021-07-28 19:33:14,371 - InetBankingV1 -INFO - Password provided
+2021-07-28 19:33:32,761 - InetBankingV1 -INFO - Customer name provided
+2021-07-28 19:33:32,974 - InetBankingV1 -INFO - Password provided
+2021-07-28 19:33:44,412 - InetBankingV1 -INFO - Customer name provided
+2021-07-28 19:33:44,810 - InetBankingV1 -INFO - Password provided
+2021-07-28 19:33:48,631 - InetBankingV1 -INFO - Login passed
+2021-07-28 19:33:57,786 - InetBankingV1 -INFO - Customer name provided
+2021-07-28 19:33:57,983 - InetBankingV1 -INFO - Password provided
+2021-07-28 19:51:59,031 - InetBankingV1 -INFO - Customer name provided
+2021-07-28 19:51:59,582 - InetBankingV1 -INFO - Password provided
+2021-07-28 19:52:05,638 - InetBankingV1 -INFO - Login passed
+2021-07-28 19:52:11,254 - InetBankingV1 -INFO - Customer name provided
+2021-07-28 19:52:11,643 - InetBankingV1 -INFO - Password provided
+2021-07-28 19:52:23,472 - InetBankingV1 -INFO - Customer name provided
+2021-07-28 19:52:31,533 - InetBankingV1 -INFO - Password provided
+2021-07-28 19:52:45,039 - InetBankingV1 -INFO - Customer name provided
+2021-07-28 19:52:45,479 - InetBankingV1 -INFO - Password provided
+2021-07-28 19:52:55,071 - InetBankingV1 -INFO - Login passed
+2021-07-28 19:53:09,963 - InetBankingV1 -INFO - Customer name provided
+2021-07-28 19:53:10,156 - InetBankingV1 -INFO - Password provided
+2021-07-28 19:55:24,752 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-28 19:58:00,634 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-28 20:05:03,440 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-28 20:13:50,601 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-28 20:17:35,064 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-28 20:20:29,997 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-28 20:24:35,749 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-28 20:25:37,802 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-28 20:44:42,687 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-28 20:51:42,908 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-28 20:54:23,051 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 00:47:26,680 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 00:47:26,759 - InetBankingV1 -INFO - Assertion pass
+2021-07-29 00:48:07,929 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 00:49:38,279 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 00:49:38,299 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 00:53:14,271 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 00:55:11,869 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 00:55:53,663 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 00:55:53,681 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 00:56:43,230 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 00:58:04,063 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 00:58:04,082 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 01:00:14,679 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 01:00:14,704 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 01:03:21,745 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 01:03:21,765 - InetBankingV1 -INFO - Assertion pass
+2021-07-29 01:08:38,757 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 01:08:38,775 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 01:10:50,862 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 01:10:50,885 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 01:14:30,792 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 01:14:30,810 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 01:16:53,901 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 01:16:53,920 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 01:20:10,155 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 01:20:10,174 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 01:27:01,928 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 01:27:01,946 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 01:32:31,739 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 01:32:31,758 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 01:35:13,882 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 01:35:13,904 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 01:37:36,027 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 01:37:36,046 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 01:39:25,119 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 01:39:25,137 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 01:41:11,147 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 01:41:11,164 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 01:50:38,219 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 01:51:35,687 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 01:51:35,706 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 10:20:56,772 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 10:35:34,458 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 11:00:18,238 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 11:04:31,284 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 11:07:00,840 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 12:05:17,898 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 12:06:00,833 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 12:06:35,069 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 12:10:55,399 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 12:10:55,418 - InetBankingV1 -INFO - Assertion pass
+2021-07-29 12:12:34,530 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 12:12:34,554 - InetBankingV1 -INFO - Assertion pass
+2021-07-29 12:13:35,890 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 12:13:35,907 - InetBankingV1 -INFO - Assertion pass
+2021-07-29 12:16:01,382 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 12:16:01,402 - InetBankingV1 -INFO - Assertion pass
+2021-07-29 12:16:44,425 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 12:16:44,445 - InetBankingV1 -INFO - Assertion pass
+2021-07-29 12:25:27,607 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 12:25:27,627 - InetBankingV1 -INFO - Assertion pass
+2021-07-29 12:27:26,836 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 12:28:15,125 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 12:28:15,147 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 16:19:38,483 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 16:19:38,854 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 16:23:29,860 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 16:23:29,929 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 16:24:55,980 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 16:28:39,466 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 16:28:39,490 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 16:29:44,819 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 16:29:44,840 - InetBankingV1 -INFO - Assertion failed
+2021-07-29 16:44:47,915 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 23:19:21,120 - InetBankingV1 -INFO - Title is : GTPL Bank Manager HomePage
+2021-07-29 23:19:53,501 - InetBankingV1 -INFO - Customer name provided
+2021-07-29 23:19:53,997 - InetBankingV1 -INFO - Password provided
+2021-07-29 23:19:59,156 - InetBankingV1 -INFO - Login passed
+2021-07-29 23:20:05,702 - InetBankingV1 -INFO - Customer name provided
+2021-07-29 23:20:06,029 - InetBankingV1 -INFO - Password provided
+2021-07-29 23:20:14,601 - InetBankingV1 -INFO - Customer name provided
+2021-07-29 23:20:14,829 - InetBankingV1 -INFO - Password provided
+2021-07-29 23:20:24,918 - InetBankingV1 -INFO - Customer name provided
+2021-07-29 23:20:25,155 - InetBankingV1 -INFO - Password provided
+2021-07-29 23:20:29,323 - InetBankingV1 -INFO - Login passed
+2021-07-29 23:20:35,831 - InetBankingV1 -INFO - Customer name provided
+2021-07-29 23:20:36,259 - InetBankingV1 -INFO - Password provided
+2021-07-29 23:21:00,224 - InetBankingV1 -INFO - user name provided
+2021-07-29 23:21:00,711 - InetBankingV1 -INFO - Password given
+2021-07-29 23:21:03,172 - InetBankingV1 -INFO - Adding Customer Details
+2021-07-29 23:21:11,710 - InetBankingV1 -INFO - AddNewCustomer failed
+2021-07-31 10:30:08,279 - InetBankingV1 -INFO - user name provided
+2021-07-31 10:30:08,766 - InetBankingV1 -INFO - Password given
+2021-07-31 10:30:17,160 - InetBankingV1 -INFO - Adding Customer Details
+2021-07-31 10:32:28,688 - InetBankingV1 -INFO - user name provided
+2021-07-31 10:32:29,088 - InetBankingV1 -INFO - Password given
+2021-07-31 10:32:32,047 - InetBankingV1 -INFO - Adding Customer Details
+2021-07-31 10:36:49,915 - InetBankingV1 -INFO - user name provided
+2021-07-31 10:36:50,138 - InetBankingV1 -INFO - Password given
+2021-07-31 10:36:52,149 - InetBankingV1 -INFO - Adding Customer Details
+2021-07-31 10:37:07,588 - InetBankingV1 -INFO - Added New Customer successfully
+2021-07-31 11:23:37,157 - InetBankingV1 -INFO - user name provided
+2021-07-31 11:23:37,556 - InetBankingV1 -INFO - Password given
+2021-07-31 11:23:40,552 - InetBankingV1 -INFO - Adding Customer Details
+2021-07-31 11:23:56,164 - InetBankingV1 -INFO - Added New Customer successfully
+2021-07-31 11:43:18,926 - InetBankingV1 -INFO - user name provided
+2021-07-31 11:43:19,372 - InetBankingV1 -INFO - Password given
+2021-07-31 11:43:22,133 - InetBankingV1 -INFO - Adding Customer Details
+2021-07-31 11:43:38,187 - InetBankingV1 -INFO - Added New Customer successfully
+2021-07-31 11:48:24,850 - InetBankingV1 -INFO - user name provided
+2021-07-31 11:48:25,162 - InetBankingV1 -INFO - Password given
+2021-07-31 11:48:27,464 - InetBankingV1 -INFO - Adding Customer Details
+2021-07-31 12:24:55,220 - InetBankingV1 -INFO - user name provided
+2021-07-31 12:24:55,822 - InetBankingV1 -INFO - Password given
+2021-07-31 12:25:04,884 - InetBankingV1 -INFO - Adding Customer Details
+2021-07-31 12:25:25,298 - InetBankingV1 -INFO - Added New Customer successfully
+2021-07-31 14:24:09,219 - InetBankingV1 -INFO - user name provided
+2021-07-31 14:24:09,482 - InetBankingV1 -INFO - Password given
+2021-07-31 14:35:03,842 - InetBankingV1 -INFO - user name provided
+2021-07-31 14:35:04,331 - InetBankingV1 -INFO - Password given
+2021-07-31 14:52:58,483 - InetBankingV1 -INFO - user name provided
+2021-07-31 14:52:58,896 - InetBankingV1 -INFO - Password given
+2021-07-31 14:53:12,137 - InetBankingV1 -INFO - Editing existing customer details
+2021-07-31 15:20:35,794 - InetBankingV1 -INFO - user name provided
+2021-07-31 15:20:36,345 - InetBankingV1 -INFO - Password given
+2021-07-31 15:20:47,268 - InetBankingV1 -INFO - Editing existing customer details
+2021-07-31 15:28:58,741 - InetBankingV1 -INFO - user name provided
+2021-07-31 15:28:59,082 - InetBankingV1 -INFO - Password given
+2021-07-31 15:29:09,484 - InetBankingV1 -INFO - Editing existing customer details
+2021-07-31 15:29:20,667 - InetBankingV1 -INFO - Customer details edited successfully
+2021-07-31 19:41:22,416 - InetBankingV1 -INFO - Title is : Guru99 Bank Manager HomePage
+2021-07-31 19:43:03,817 - InetBankingV1 -INFO - Title is : Guru99 Bank Manager HomePage
+2021-07-31 21:02:50,455 - InetBankingV1 -INFO - user name provided
+2021-07-31 21:02:50,766 - InetBankingV1 -INFO - Password given
+2021-07-31 21:27:40,020 - InetBankingV1 -INFO - user name provided
+2021-07-31 21:27:40,398 - InetBankingV1 -INFO - Password given
+2021-07-31 21:30:06,858 - InetBankingV1 -INFO - user name provided
+2021-07-31 21:30:07,209 - InetBankingV1 -INFO - Password given
+2021-07-31 21:35:43,123 - InetBankingV1 -INFO - user name provided
+2021-07-31 21:35:43,449 - InetBankingV1 -INFO - Password given
+2021-07-31 21:38:27,348 - InetBankingV1 -INFO - user name provided
+2021-07-31 21:38:27,582 - InetBankingV1 -INFO - Password given
+2021-07-31 21:40:28,010 - InetBankingV1 -INFO - user name provided
+2021-07-31 21:40:28,292 - InetBankingV1 -INFO - Password given
+2021-07-31 21:41:41,887 - InetBankingV1 -INFO - user name provided
+2021-07-31 21:41:42,189 - InetBankingV1 -INFO - Password given
+2021-07-31 21:43:35,451 - InetBankingV1 -INFO - user name provided
+2021-07-31 21:43:35,726 - InetBankingV1 -INFO - Password given
+2021-07-31 21:48:44,021 - InetBankingV1 -INFO - user name provided
+2021-07-31 21:48:44,361 - InetBankingV1 -INFO - Password given
+2021-07-31 21:53:32,695 - InetBankingV1 -INFO - user name provided
+2021-07-31 21:53:33,002 - InetBankingV1 -INFO - Password given
+2021-07-31 21:53:58,536 - InetBankingV1 -INFO - Add Account details entered successfully
+2021-07-31 21:57:45,671 - InetBankingV1 -INFO - user name provided
+2021-07-31 21:57:46,085 - InetBankingV1 -INFO - Password given
+2021-07-31 21:58:11,569 - InetBankingV1 -INFO - Add Account details entered successfully
+2021-08-10 00:54:55,802 - InetBankingV1 -INFO - user name provided
+2021-08-10 00:54:56,102 - InetBankingV1 -INFO - Password given
+2021-08-10 00:54:58,485 - InetBankingV1 -INFO - Adding Customer Details
+2021-08-10 00:55:08,653 - InetBankingV1 -INFO - Added New Customer successfully
