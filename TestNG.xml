@@ -16,10 +16,11 @@
 			<!--  <class name="com.inetbanking.testCases.TC_EditCustomerTest_004" />-->
 			<!--<class name="com.inetbanking.testCases.TC_NewAccountTest_005" />-->
 			
-			<class name="com.inetbanking.testCases.Demo1" />
-			<class name="com.inetbanking.testCases.Demo2" />
-			<class name="com.inetbanking.testCases.Demo3" />
+			<!--  <class name="com.inetbanking.testCases.Demo1" />-->
+		<!--	<class name="com.inetbanking.testCases.Demo2" />-->
+			<!--<class name="com.inetbanking.testCases.Demo3" />-->
 			
+			<class name = "com.inetbanking.testCases.ReadingArray1" />
 			
 			
 			
